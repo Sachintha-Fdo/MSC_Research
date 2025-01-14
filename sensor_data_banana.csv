@@ -1,0 +1,32 @@
+Time (ms),Temperature (°C),Humidity (%),CO2 (ppm),Ethylene (ppm),Ammonia (ppm),Ripeness
+Time(ms),Temperature(°C),Humidity(%),CO2(ppm),Ethylene(ppm),Ammonia(ppm),Ripeness
+2042,33.40,65.00,1.32,1.06,0.79,Not Yet Ripened
+14568,33.10,65.00,0.25,0.20,0.15,Not Yet Ripened
+27094,33.90,65.00,0.21,0.17,0.13,Not Yet Ripened
+39619,32.20,66.00,0.25,0.20,0.15,Not Yet Ripened
+52144,32.60,66.00,0.40,0.32,0.24,Not Yet Ripened
+64670,32.90,67.00,0.19,0.15,0.11,Not Yet Ripened
+77195,32.80,67.00,0.13,0.11,0.08,Not Yet Ripened
+89721,32.60,67.00,0.11,0.09,0.07,Not Yet Ripened
+102246,32.30,68.00,0.31,0.25,0.19,Not Yet Ripened
+114771,32.30,68.00,0.42,0.33,0.25,Not Yet Ripened
+127296,32.20,68.00,0.13,0.11,0.08,Not Yet Ripened
+139823,32.80,68.00,0.40,0.32,0.24,Not Yet Ripened
+152347,32.20,68.00,0.22,0.18,0.13,Not Yet Ripened
+164873,32.10,69.00,0.37,0.30,0.22,Not Yet Ripened
+177398,32.80,69.00,0.20,0.16,0.12,Not Yet Ripened
+189925,32.80,69.00,0.15,0.12,0.09,Not Yet Ripened
+202449,32.60,69.00,0.47,0.38,0.28,Not Yet Ripened
+214975,32.90,69.00,0.22,0.18,0.13,Not Yet Ripened
+227501,32.80,69.00,0.14,0.11,0.08,Not Yet Ripened
+240026,32.30,69.00,0.34,0.27,0.21,Not Yet Ripened
+252552,32.10,69.00,0.14,0.11,0.08,Not Yet Ripened
+265077,32.90,69.00,0.20,0.16,0.12,Not Yet Ripened
+277603,32.00,69.00,0.10,0.08,0.06,Not Yet Ripened
+290128,32.10,69.00,0.12,0.09,0.07,Not Yet Ripened
+302654,32.40,70.00,0.12,0.09,0.07,Not Yet Ripened
+315180,32.40,70.00,0.11,0.09,0.07,Not Yet Ripened
+327705,32.30,70.00,0.12,0.09,0.07,Not Yet Ripened
+340231,32.50,70.00,0.41,0.33,0.25,Not Yet Ripened
+352756,32.00,70.00,0.16,0.13,0.10,Not Yet Ripened
+365282,32.10,70.00,0.35,0.28,0.21,Not Yet Ripened

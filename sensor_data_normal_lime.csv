@@ -1,0 +1,10 @@
+Time (ms),Temperature (°C),Humidity (%),CO2 (ppm),Ethylene (ppm),Ammonia (ppm),Red,Green,Blue,Clear,Color Temp (K),Absorption,Emission
+Time(ms),Temperature(°C),Humidity(%),CO2(ppm),Ethylene(ppm),Ammonia(ppm),Red,Green,Blue,Clear,Color Temp(K),Absorption,Emission
+Time(ms),Temperature(°C),Humidity(%),CO2(ppm),Ethylene(ppm),Ammonia(ppm),Red,Green,Blue,Clear,Color Temp(K),Absorption,Emission
+3324,32.00,68.00,29.20,23.36,17.52,10,11,10,34,7097,0.03,0.91
+16455,32.40,68.00,0.31,0.25,0.19,10,11,10,33,7097,0.01,0.94
+29586,32.30,68.00,1.20,0.96,0.72,10,11,10,34,7097,0.03,0.91
+42717,32.00,68.00,1.21,0.97,0.73,10,11,10,34,7097,0.03,0.91
+55847,32.50,68.00,0.29,0.23,0.17,10,11,10,34,7097,0.03,0.91
+68978,32.00,68.00,1.09,0.87,0.65,10,11,10,34,7097,0.03,0.91
+82109,32.30,68.00,0.28,0.22,0.17,10,11,10,34,7097,0.03,0.91
